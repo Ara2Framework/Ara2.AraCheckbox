@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Ara2.AraCheckbox/bin
+/.vs
+/Ara2.AraCheckbox/obj
+/Ara2.AraCheckbox/Nuget/*.nupkg
