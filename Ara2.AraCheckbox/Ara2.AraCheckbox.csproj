@@ -44,7 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AraComponetsServer\AraCheckbox\AraCheckbox.cs" />
+    <Compile Include="Ara2ComponentsServer\AraCheckbox\AraCheckbox.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
